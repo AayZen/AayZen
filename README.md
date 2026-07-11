@@ -17,7 +17,7 @@ Building modern web experiences with clean UI and great UX.
 - 💻 Frontend Developer
 - ☁️ Learning Cloud Computing & AI
 - 🌱 Currently improving React.js and modern web technologies
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: aayankumar312@gmail.com
 
 ---
 

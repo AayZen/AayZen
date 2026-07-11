@@ -1,43 +1,53 @@
 # Hi there, I'm Aayan Kumar 👋
 
 <h3 align="center">
-UI/UX Designer • Frontend Developer • Cloud Computing Enthusiast
+🎓 B.Tech Computer Science & Engineering Graduate (2026) | ☁️ Cloud Computing Specialist | 🎨 UI/UX Designer | 💻 Frontend Developer
 </h3>
 
 <p align="center">
-Building modern web experiences with clean UI and great UX.
+Passionate about creating intuitive digital experiences, building responsive web applications, and exploring Cloud Computing & AI technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AayZen">
+    <img src="https://komarev.com/ghpvc/?username=AayZen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/AayZen?tab=followers">
+    <img src="https://img.shields.io/github/followers/AayZen?label=Followers&style=social" alt="Followers"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Graduate (Lovely Professional University)
-- 🎨 Passionate about UI/UX Design
-- 💻 Frontend Developer
-- ☁️ Learning Cloud Computing & AI
-- 🌱 Currently improving React.js and modern web technologies
-- 📫 Reach me: aayankumar312@gmail.com
+- 🎓 **B.Tech Computer Science & Engineering (2026)**
+- ☁️ **Specialization:** Cloud Computing
+- 🎨 Passionate about **UI/UX Design**
+- 💻 Frontend Developer focused on building responsive websites
+- 🌱 Currently learning **Cloud Computing, React.js, AI & Modern Web Technologies**
+- 🚀 Open to internships, freelance work, and collaborations
+- 📍 India
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/aayzen/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/yourprofile">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/itsAayzen" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://www.instagram.com/its.aayzen/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:aayankumar312@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -48,66 +58,73 @@ Building modern web experiences with clean UI and great UX.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
-### Design
+### UI / UX
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 GreenGrocery
-Modern Grocery E-commerce Website
+## 🛒 GreenGrocery
+
+Modern Grocery E-Commerce Website
 
 - Responsive Design
+- Shopping Cart
+- Wishlist
+- Checkout Flow
 - Modern UI
-- HTML • CSS • JavaScript
 
-🔗 https://github.com/AayZen/GreenGrocery
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-### ❤️ Health Genie
+## ❤️ Health Genie
 
-AI-powered Healthcare Platform
+AI-powered Healthcare & Wellness Platform
 
-- React
-- Node.js
-- MongoDB
 - Authentication
+- Appointment Booking
+- Health Tracking
+- Medicine Management
+
+**Tech:** React • Node.js • MongoDB
 
 ---
 
-### ☁️ AWS Serverless Web Application
+## ☁️ AWS Serverless Web Application
+
+Cloud-native Serverless Application
 
 - AWS Lambda
 - API Gateway
@@ -135,14 +152,6 @@ AI-powered Healthcare Platform
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AayZen&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -151,14 +160,43 @@ AI-powered Healthcare Platform
 
 ---
 
-## 💡 Quote
+# 🏆 GitHub Trophies
 
-> "Design is intelligence made visible."
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AayZen&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
+# 📚 Currently Learning
+
+- ☁️ AWS Cloud Computing
+- ⚛️ React.js
+- 🎨 Advanced UI/UX Design
+- 🤖 Artificial Intelligence
+- 🌐 Modern Web Development
+
+---
+
+# 📫 Contact
+
+- 📧 **Email:** **aayankumar312@gmail.com**
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aayzen/
+- 🐦 **X:** https://x.com/itsAayzen
+- 📷 **Instagram:** https://www.instagram.com/its.aayzen/
+
+---
+
+## 💭 Quote
+
+> **"Design creates the experience. Code brings it to life."**
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
 <p align="center">
-
-⭐ If you like my work, consider starring my repositories!
-
+<i>Let's build something amazing together 🚀</i>
 </p>

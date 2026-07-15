@@ -143,7 +143,7 @@ Cloud-native Serverless Application
 
 </p> 
 -->
----
+
 <!--
 # 🔥 GitHub Streak
 
@@ -151,7 +151,7 @@ Cloud-native Serverless Application
 <img src="https://streak-stats.demolab.com?user=AayZen&theme=tokyonight&hide_border=true"/>
 </p>
 -->
----
+
 
 # 📈 Contribution Graph
 
@@ -159,15 +159,14 @@ Cloud-native Serverless Application
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AayZen&theme=tokyo-night"/>
 </p>
 
----
 <!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AayZen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 </p>
+
 -->
----
 
 # 📚 Currently Learning
 

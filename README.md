@@ -70,7 +70,7 @@ Passionate about creating intuitive digital experiences, building responsive web
 ### UI / UX
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,framer" />
 </p>
 
 ### Backend
@@ -82,13 +82,13 @@ Passionate about creating intuitive digital experiences, building responsive web
 ### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---

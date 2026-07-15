@@ -132,6 +132,7 @@ Cloud-native Serverless Application
 
 ---
 
+<!-- 
 # 📊 GitHub Stats
 
 <p align="center">
@@ -140,16 +141,16 @@ Cloud-native Serverless Application
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayZen&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
+</p> 
+-->
 ---
-
+<!--
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AayZen&theme=tokyonight&hide_border=true"/>
 </p>
-
+-->
 ---
 
 # 📈 Contribution Graph

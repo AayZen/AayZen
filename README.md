@@ -1,7 +1,7 @@
 # Hi there, I'm Aayan Kumar 👋
 
 <h3 align="center">
-🎓 B.Tech Computer Science & Engineering Graduate (2026) | ☁️ Cloud Computing Specialist | 🎨 UI/UX Designer | 💻 Frontend Developer
+🎓 Final-Year B.Tech Computer Science & Engineering Student (2026) | ☁️ Cloud Computing Specialist | 🎨 UI/UX Designer | 💻 Frontend Developer
 </h3>
 
 <p align="center">

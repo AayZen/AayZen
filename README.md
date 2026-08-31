@@ -1,202 +1,128 @@
-# Hi there, I'm Aayan Kumar 👋
+<div align="center">
 
-<h3 align="center">
-🎓 Final-Year B.Tech Computer Science & Engineering Student (2026) | ☁️ Cloud Computing Specialist | 🎨 UI/UX Designer | 💻 Frontend Developer
-</h3>
+# Hi, I'm Aayan Kumar 👋
 
-<p align="center">
-Passionate about creating intuitive digital experiences, building responsive web applications, and exploring Cloud Computing & AI technologies.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Computing+(AWS+%2F+Azure);Building+AI-Powered+Applications;UI%2FUX+Designer" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/AayZen">
-    <img src="https://komarev.com/ghpvc/?username=AayZen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/AayZen?tab=followers">
-    <img src="https://img.shields.io/github/followers/AayZen?label=Followers&style=social" alt="Followers"/>
-  </a>
-</p>
+Final-year B.Tech CSE Student · Lovely Professional University
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aayan-kumar-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayzen/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayankumar312@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+### About Me
 
-- 🎓 **B.Tech Computer Science & Engineering (2026)**
-- ☁️ **Specialization:** Cloud Computing
-- 🎨 Passionate about **UI/UX Design**
-- 💻 Frontend Developer focused on building responsive websites
-- 🌱 Currently learning **Cloud Computing, React.js, AI & Modern Web Technologies**
-- 🚀 Open to internships, freelance work, and collaborations
+- 🎓 Final-year **B.Tech CSE Student** (2026) — Lovely Professional University
+- ☁️ Specialization in **Cloud Computing** (AWS & Azure)
+- 💻 **Full-Stack Developer** — React, Node.js, MongoDB
+- 🤖 Building **AI-powered application features** where they add real value
+- 🎨 **UI/UX Designer** — Figma, published HCI research on interface redesign
+- 🚀 Open to full-stack, cloud, and AI-application internships/roles
 - 📍 India
 
 ---
 
-## 🌐 Connect with Me
+### Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aayzen/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Cloud**
 
-<a href="https://x.com/itsAayzen" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)
 
-<a href="https://www.instagram.com/its.aayzen/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+**Frontend**
 
-<a href="mailto:aayankumar312@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+![Frontend](https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js)
 
----
+**Backend**
 
-# 💻 Tech Stack
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
-### Languages
+**UI / UX**
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-</p>
+![UIUX](https://skillicons.dev/icons?i=figma)
 
-### Frontend
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-### UI / UX
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,framer" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
-# 🚀 Featured Projects
+### Featured Projects
 
-## 🛒 GreenGrocery
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Modern Grocery E-Commerce Website
+**🩺 Medora**
+Android healthcare app — appointment booking, chatbot support, health tracking, and emergency features.
 
-- Responsive Design
-- Shopping Cart
-- Wishlist
-- Checkout Flow
-- Modern UI
+`Kotlin` `Node.js` `MongoDB`
 
-**Tech:** HTML • CSS • JavaScript
+[View Repo →](https://github.com/AayZen/Medora)
 
----
+</td>
+<td width="50%" valign="top">
 
-## ❤️ Health Genie
+**📊 DashCraft**
+Drag-and-drop analytics dashboard builder with AI-assisted dashboard generation.
 
-AI-powered Healthcare & Wellness Platform
+`React` `TypeScript` `Tailwind`
 
-- Authentication
-- Appointment Booking
-- Health Tracking
-- Medicine Management
+[View Repo →](https://github.com/AayZen/dashcraft)
 
-**Tech:** React • Node.js • MongoDB
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**☁️ AWS Serverless Web Application**
+Cloud-native serverless application built on AWS.
 
-## ☁️ AWS Serverless Web Application
+`AWS Lambda` `API Gateway` `DynamoDB`
 
-Cloud-native Serverless Application
+</td>
+<td width="50%" valign="top">
 
-- AWS Lambda
-- API Gateway
-- DynamoDB
+**🎫 SmartFlow TVM**
+HCI/UI-UX research redesigning ticket vending machine interfaces — published paper, Figma prototypes.
 
----
+`Figma` `UX Research`
 
-<!-- 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AayZen&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayZen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p> 
--->
-
-<!--
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AayZen&theme=tokyonight&hide_border=true"/>
-</p>
--->
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayZen&theme=tokyo-night"/>
-</p>
-
-<!--
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayZen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
-</p>
-
--->
-
-# 📚 Currently Learning
-
-- ☁️ AWS Cloud Computing
-- ⚛️ React.js
-- 🎨 Advanced UI/UX Design
-- 🤖 Artificial Intelligence
-- 🌐 Modern Web Development
+</td>
+</tr>
+</table>
 
 ---
 
-# 📫 Contact
+### GitHub Stats
 
-- 📧 **Email:** **aayankumar312@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aayzen/
-- 🐦 **X:** https://x.com/itsAayzen
-- 📷 **Instagram:** https://www.instagram.com/its.aayzen/
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=AayZen&show_icons=true&theme=graywhite&hide_border=true&hide_title=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayZen&layout=compact&theme=graywhite&hide_border=true&hide_title=true" height="165" />
 
-## 💭 Quote
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayZen&theme=minimal&hide_border=true" width="95%" />
 
-> **"Design creates the experience. Code brings it to life."**
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+### Currently Learning
 
-<p align="center">
-<i>Let's build something amazing together 🚀</i>
-</p>
+- ☁️ Advanced AWS & Azure services
+- ⚛️ React / Next.js ecosystem
+- 🎨 Advanced UI/UX & design systems
+- 🤖 Applied AI in product development
+
+---
+
+<div align="center">
+
+**"Design creates the experience. Code brings it to life."**
+
+Thanks for stopping by — always open to connecting on cloud, full-stack, or design work.
+
+</div>

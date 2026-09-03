@@ -181,7 +181,7 @@ HCI/UX research redesigning ticket vending machine interfaces — published pape
 
 I'm always open to conversations about cloud architecture, full-stack builds, or product design — reach out anytime.
 
-<a href="mailto:aayankumar312@gmail.com">
+<a href="mailto:aayank.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/aayzen/">
